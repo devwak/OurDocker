@@ -1,1 +1,1 @@
-FROM docker.io/devwak/avs:v9
+FROM docker.io/devwak/avs:v10
