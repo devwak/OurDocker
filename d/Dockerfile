@@ -1,1 +1,1 @@
-FROM docker.io/devwak/avsn:v62d9
+FROM docker.io/devwak/avsn:v63d1
